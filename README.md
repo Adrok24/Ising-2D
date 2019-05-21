@@ -3,4 +3,4 @@ Two-dimensional square lattice Ising model
 
 Para más detalles consultar InformeIsing2D.pdf
 
-![Screenshot](Captura.png)
+![Screenshot](captura.png)
